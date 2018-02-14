@@ -1,0 +1,21 @@
+/* animation */
+.slide-transition{display: inline-block;}
+.slide-enter-active {animation: slide-enter .5s;}
+.slide-leave-active {animation: slide-leave .5s;}
+
+@keyframes slide-enter{
+	0%{
+		transform: translateX(-100%);
+	}
+	100%{
+		transform: translateX(0);
+	}
+}
+@keyframes slide-leave{
+	0%{
+		transform: translateX(0);
+	}
+	100%{
+		transform: translateX(-100%);
+	}
+}
