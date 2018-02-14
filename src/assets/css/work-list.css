@@ -15,18 +15,7 @@ canvas{
 
 
 
-.worklist{
-  width: 960px;
-    position: relative;
-  left: 50%;
-  top: 20%;
-  transform: translateX(-50%);
-  z-index: 100;
-  /* background-color: #fff; */
-}
-.worklist::after{
-clear:both;content:'';display:block;width: 0;height: 0;visibility:hidden;
-}
+
 
 
 @page{
@@ -49,10 +38,10 @@ clear:both;content:'';display:block;width: 0;height: 0;visibility:hidden;
 
   /* XXX: using px for very good precision control */
   --decorator-outer-offset-top: 10px;
-  --decorator-outer-offset-left: -5.5px;
+  --decorator-outer-offset-left: -6.5px;
   --decorator-border-width: 1px;
-  --decorator-outer-dim: 9px;
-  --decorator-border: 1px solid #ccc;
+  --decorator-outer-dim: 12px;
+  --decorator-border: 2px solid #ccc;
 
   --row-blocks-padding-top: 5pt;
   --date-block-width: 0.6in;
@@ -80,10 +69,11 @@ li{
 #main{
   float: left;
   width: var(--main-width);
-  padding: 1.2in 0.25in 0 0.25in;
+  padding: 0.25in 0.25in 0 0.25in;
   font-size: 14px;
 	z-index: 200;  padding-bottom: 100px;
-position: relative;
+	position: relative;
+  /* background-color: rgba(255, 255, 255, 0.7); */
 }
 
 #sidebar{
@@ -92,10 +82,23 @@ position: relative;
   width: var(--sidebar-width);
   height: 100%;
   padding: 0.6in var(--sidebar-horizontal-padding);
-  background-color: #f2f2f2;
+  background-color: rgba(255, 255, 255, 0.5);
   font-size: 16px;
 }
 
+.worklist{
+  width: 820px;
+  position: relative;
+  left: 50%;
+  top: 20%;
+  transform: translateX(-50%);
+  z-index: 100;
+  /* background-color: #fff; */
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.worklist::after{
+clear:both;content:'';display:block;width: 0;height: 0;visibility:hidden;
+}
 /* main */
 
 /** big title **/
@@ -112,7 +115,7 @@ position: relative;
 
 #title h1{
   font-weight: 300;
-  font-size: 18px;
+  font-size: 34px;
   line-height: 1.5;
 }
 
@@ -137,7 +140,7 @@ position: relative;
   /* XXX: 0.5px for aligning fx printing */
   left: calc((var(--date-block-width) + var(--decorator-horizontal-margin)));
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   color: #555;
 }
 
@@ -194,30 +197,29 @@ position: relative;
   flex: 0 0 var(--date-block-width);
   padding-top: calc(var(--row-blocks-padding-top) + 2.5pt) !important;
   padding-right: var(--decorator-horizontal-margin);
-  font-size: 14px;
+  font-size: 16px;
   text-align: right;
   line-height: 1;
 }
 
 .date span{
   display: block;
-	/* font-size: 14px; */
 
 }
 
 .date span:nth-child(2)::before{
   position: relative;
-  top: 1pt;
+  top: 1px;
   right: 5.5pt;
   display: block;
-  height: 10pt;
+  height: 16pt;
   content: '|';
 }
 
 .decorator{
   flex: 0 0 0;
   position: relative;
-  width: 2pt;
+  width: 10pt;
   min-height: 100%;
   border-left: var(--decorator-border);
 }

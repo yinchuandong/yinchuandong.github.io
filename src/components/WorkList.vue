@@ -1,79 +1,93 @@
 <template>
   <section class="worklist">
     <section id="main">
+
+
+
       <header id="title">
-        <h1>John Doe</h1>
-        <span class="subtitle">Plaintiff, defendant &amp; witness</span>
+        <h1>Chuandong Yin</h1>
+        <span class="subtitle">Data Scientist</span>
       </header>
+
+
+
       <section class="main-block">
         <h2>
           <i class="fa fa-suitcase"></i> Experiences
         </h2>
         <section class="blocks">
           <div class="date">
-            <span>2015</span><span>now</span>
+            <span>2016</span>
           </div>
           <div class="decorator">
           </div>
           <div class="details">
             <header>
-              <h3>Some Position</h3>
-              <span class="place">Some Workplace</span>
-              <span class="location">(remote)</span>
+              <h3>Data Scientist (intern)</h3>
+              <span class="place">The University of Melbourne</span>
+              <span class="location">Australia</span>
             </header>
             <div>
               <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio. Vestibulum dapibus pharetra odio, egestas ullamcorper ipsum congue ac. Maecenas viverra tortor eget convallis vestibulum. Donec pulvinar venenatis est, non sollicitudin metus laoreet sed. Fusce tincidunt felis nec neque aliquet porttitor</li>
+                <li>Explain how deep learning classifiers work based on images</li>
+                <li>Visualize the parameters of each layer in a CNN model</li>
+                <li>Semantically segment images into small parts and compute the importance of each part</li>
               </ul>
               </div>
           </div>
         </section>
+
         <section class="blocks">
           <div class="date">
-            <span>2014</span><span>2015</span>
+            <span>2013</span><span>2016</span>
           </div>
           <div class="decorator">
           </div>
           <div class="details">
             <header>
-              <h3>Another Position</h3>
-              <span class="place">Some Workplace</span>
-              <span class="location">Some City, Some Country</span>
+              <h3>CTO (part-time)</h3>
+              <span class="place">Shenzhen Sichuang Technology Co., Ltd</span>
+              <span class="location">Shenzhen, China</span>
             </header>
             <div>
               <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+                <li>Design an English grammar correction APP via NLP techniques</li>
+                <li>Build an educational Android tablet system</li>
+                <li>Build educational Android Apps, including Android App and server-side API design</li>
               </ul>
             </div>
           </div>
         </section>
+
         <section class="blocks">
           <div class="date">
-            <span>2013</span><span>2014</span>
+            <span>2013</span>
           </div>
           <div class="decorator">
           </div>
           <div class="details">
             <header>
-              <h3>Yet Another Job Position</h3>
-              <span class="place">Some Workplace</span>
-              <span class="location">Some City, Some Country</span>
+              <h3>Web Engineer (intern)</h3>
+              <span class="place">Tencent Technology Co., Ltd</span>
+              <span class="location">Shenzhen, China</span>
             </header>
             <div>
               <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+                <li>Front-end design, including JS, CSS, HTML</li>
+                <li>Back-end design, including PHP, MySQL</li>
               </ul>
               </div>
           </div>
         </section>
+
       </section>
+
+
+
+
       <section class="main-block">
         <h2>
-          <i class="fa fa-folder-open"></i> Selected Projects
+          <i class="fa fa-folder-open"></i>Projects
         </h2>
         <section class="blocks">
           <div class="date">
@@ -113,6 +127,7 @@
             </div>
           </div>
         </section>
+
         <section class="blocks">
           <div class="date">
             <span>2014</span>
@@ -132,77 +147,54 @@
           </div>
         </section>
       </section>
+
+
+
       <section class="main-block concise">
         <h2>
           <i class="fa fa-graduation-cap"></i> Education
         </h2>
         <section class="blocks">
           <div class="date">
-            <span>2009</span><span>2014</span>
+            <span>2018</span><span>2016</span>
           </div>
           <div class="decorator">
           </div>
           <div class="details">
             <header>
-              <h3>Ph.D. in Forty-Two Discovery</h3>
-              <span class="place">Inexistent University</span>
-              <span class="location">Some City, Some Country</span>
+              <h3>Mphil (Computer Science)</h3>
+              <span class="place">The University of Melbourne</span>
+              <span class="location">Australia</span>
             </header>
-            <div>Relationship of the number with the answer to life, the universe and everything</div>
-          </div>
-        </section>
-        <section class="blocks">
-          <div class="date">
-            <span>2005</span><span>2009</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>LL.B. in H&aelig;matophagic Economics</h3>
-              <span class="place">Inexistent University</span>
-              <span class="location">Some City, Some Country</span>
-            </header>
-            <div>President's Scholarship</div>
-          </div>
-        </section>
-        <section class="blocks">
-          <div class="date">
-            <span>2005</span><span>2009</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>B.S. in Existential Science (Double Major)</h3>
-              <span class="place">Inexistent University</span>
-              <span class="location">Some City, Some Country</span>
-            </header>
-            <div>President's Scholarship</div>
-          </div>
-        </section>
-        <section class="blocks">
-          <div class="date">
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Massive Online Fee&ndash;Required Course (selective list)</h3>
-            </header>
-            <div class="concise">
-              <ul>
-                <li>Introduction to something else</li>
-                <li>Introduction to some more useless things</li>
-                <li>Philosophy in practice</li>
-                <li>Recursive research and its impact on recursive research</li>
-                <li>Artificial politics</li>
-              </ul>
+            <div>
+              Research Topic: Task-oriented Chatbot via Reinforcement Learning
             </div>
           </div>
         </section>
+
+
+        <section class="blocks">
+          <div class="date">
+            <span>2015</span><span>2011</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Bachelor (Software Engineering)</h3>
+              <span class="place">Guangdong University of Foreign Studies</span>
+              <span class="location">China</span>
+            </header>
+            <div>
+              <!--  -->
+            </div>
+          </div>
+        </section>
+
       </section>
     </section>
+
+
     <aside id="sidebar">
       <div class="side-block" id="contact">
         <h1>
