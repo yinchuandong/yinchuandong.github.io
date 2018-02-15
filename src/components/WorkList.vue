@@ -23,7 +23,7 @@
           </div>
           <div class="details">
             <header>
-              <h3>Data Scientist (intern)</h3>
+              <h3>Data Scientist (SummerTech intern)</h3>
               <span class="place">The University of Melbourne</span>
               <span class="location">Australia</span>
             </header>
@@ -83,6 +83,58 @@
       </section>
 
 
+      <section class="main-block">
+        <h2>
+          <i class="fa fa-suitcase"></i> Research
+        </h2>
+
+        <section class="blocks">
+          <div class="date">
+            <span>2018</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>
+                PGGAN: Generative Adversarial Nets Guided Policy Gradient for Task-oriented Chatbot Training
+                (Submitted to IJCAI 2018)
+              </h3>
+              <span class="place">The University of Melbourne</span>
+            </header>
+            <div>
+              <ul>
+                <li>Tag: Chatbot, Reinforcement Learning, GAN, Monte-Carlo</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="blocks">
+          <div class="date">
+            <span>2017</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>
+                A4C: Context-Uncertainty-Aware Chatbot Action Selection via Parameterized Auxiliary Reinforcement Learning
+                <strong>(Accepted by PAKDD 2018)</strong>
+              </h3>
+              <span class="place">The University of Melbourne</span>
+            </header>
+            <div>
+              <ul>
+                <li>Tag: Chatbot, Reinforcement Learning, Actor-Critic</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+      </section>
+
+
 
 
       <section class="main-block">
@@ -91,38 +143,39 @@
         </h2>
         <section class="blocks">
           <div class="date">
-            <span>2015</span><span>2016</span>
+            <span>2016</span>
           </div>
           <div class="decorator">
           </div>
           <div class="details">
             <header>
-              <h3>Some Project 1</h3>
-              <span class="place">Some workplace</span>
+              <h3>Building Exterior Recognition</h3>
+              <span class="place">The University of Melbourne</span>
             </header>
             <div>
               <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio. Vestibulum dapibus pharetra odio, egestas ullamcorper ipsum congue ac</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio</li>
+                <li>Classify the exterior and interior of buildings with CNN (caffe)</li>
+                <li>Extract the exterior part from background (Clustering and Classification)</li>
               </ul>
             </div>
           </div>
         </section>
+
         <section class="blocks">
           <div class="date">
-            <span>2014</span><span>2015</span>
+            <span>2015</span>
           </div>
           <div class="decorator">
           </div>
           <div class="details">
             <header>
-              <h3>Some Project 2</h3>
-              <span class="place">Some workplace</span>
+              <h3>English Grammar Checker</h3>
+              <span class="place">Shenzhen Sichuang Technology Co., Ltd</span>
             </header>
             <div>
               <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio. Vestibulum dapibus pharetra odio, egestas ullamcorper ipsum congue ac. Maecenas viverra tortor eget convallis vestibulum. Donec pulvinar venenatis est, non sollicitudin metus laoreet sed. Fusce tincidunt felis nec neque aliquet porttitor</li>
+                <li>Check English grammar based on noisy channel model</li>
+                <li>Auto-correct mistakes using edit distance and N-grammar </li>
               </ul>
             </div>
           </div>
@@ -136,16 +189,77 @@
           </div>
           <div class="details">
             <header>
-              <h3>Some Project 3</h3>
-              <span class="place">Some workplace</span>
+              <h3>Distorted and Sticky CAPTCHA Recognition</h3>
+              <span class="place">Guangdong University of Foreign Studies</span>
             </header>
             <div>
               <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio</li>
+                <li>Segment sticky characters using Color Filling Segmentation and Big Inertial Drop Fall algorithm</li>
+                <li>Recognize each character using SVM classifier</li>
               </ul>
             </div>
           </div>
         </section>
+
+        <section class="blocks">
+          <div class="date">
+            <span>2014</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Book Recommendation</h3>
+              <span class="place">Guangdong University of Foreign Studies</span>
+            </header>
+            <div>
+              <ul>
+                <li>Recommend books for students based on their reading history using collaborative filtering</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="blocks">
+          <div class="date">
+            <span>2014</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Travel Trajectory Planning</h3>
+              <span class="place">Guangdong University of Foreign Studies</span>
+            </header>
+            <div>
+              <ul>
+                <li>Dynamically recommend routes, hotels, and restaurants for users based on their travel destinatin, cost, and days</li>
+                <li>Auto-plan trajectory using ant colony algorithm and genetic algorithm</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="blocks">
+          <div class="date">
+            <span>2013</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Chinese News Classification</h3>
+              <span class="place">Guangdong University of Foreign Studies</span>
+            </header>
+            <div>
+              <ul>
+                <li>Classify Chinese News into different categories using SVM classfier</li>
+                <li>Segment Chinese sentence into words using Hidden Markov Model</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
       </section>
 
 
@@ -196,15 +310,27 @@
 
 
     <aside id="sidebar">
+      <div class="side-block" id="photo">
+        <img id="photo" src="/static/img/photo.jpg"/>
+      </div>
       <div class="side-block" id="contact">
         <h1>
           Contact Info
         </h1>
         <ul>
-          <li><i class="fa fa-globe"></i> johndoe.gtld</li>
-          <li><i class="fa fa-linkedin"></i> linkedin.com/in/john</li>
-          <li><i class="fa fa-envelope"></i> me@johndoe.gtld</li>
-          <li><i class="fa fa-phone"></i> 800.000.0000</li>
+          <li><i class="fa fa-globe"></i>
+            johncdyin AT gmail.com
+          </li>
+          <li><i class="fa fa-linkedin"></i>
+            <a href="http://www.linkedin.com/in/yinchuandong" target="_blank">
+              linkedin: yinchuandong
+            </a>
+          </li>
+          <li><i class="fa fa-envelope"></i>
+            <a href="http://github.com/yinchuandong" target="_blank">
+              github: yinchuandong
+            </a>
+          </li>
         </ul>
       </div>
       <div class="side-block" id="skills">
@@ -212,16 +338,22 @@
           Skills
         </h1>
         <ul>
-          <li>Omnipresence</li>
-          <li>Anonymity</li>
+          <li>Deep Learning</li>
+          <li>Reinforcement Learning</li>
+          <li>Data Mining</li>
+          <li>NLP</li>
         </ul>
         <ul>
-          <li>Ordinarity</li>
-          <li>No name rights</li>
+          <li>Python</li>
+          <li>Java/Android</li>
+          <li>PHP</li>
+          <li>JS (Node/Vue/Jquery)</li>
+          <li>C/C++</li>
+          <li>Linux/Git</li>
         </ul>
       </div>
       <div class="side-block" id="disclaimer">
-        This r&eacute;sum&eacute; was wholly typeset with HTML/CSS &mdash; see <code>git.io/vVSYL</code>
+        <!--  -->
       </div>
     </aside>
 

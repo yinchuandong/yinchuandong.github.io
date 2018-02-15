@@ -81,13 +81,18 @@ li{
 	right: 0;
   width: var(--sidebar-width);
   height: 100%;
-  padding: 0.6in var(--sidebar-horizontal-padding);
+  padding: 0.0in var(--sidebar-horizontal-padding);
   background-color: rgba(255, 255, 255, 0.5);
-  font-size: 16px;
+  font-size: 14px;
+}
+
+#photo{
+	width: 140px;
+	border-radius: 100%;
 }
 
 .worklist{
-  width: 820px;
+	width: var(--page-width);
   position: relative;
   left: 50%;
   top: 20%;
@@ -132,6 +137,7 @@ clear:both;content:'';display:block;width: 0;height: 0;visibility:hidden;
 
 .main-block{
   margin-top: 0.1in;
+	margin-bottom: 0.4in;
 }
 
 #main h2{
@@ -141,7 +147,7 @@ clear:both;content:'';display:block;width: 0;height: 0;visibility:hidden;
   left: calc((var(--date-block-width) + var(--decorator-horizontal-margin)));
   font-weight: 400;
   font-size: 18px;
-  color: #555;
+  color: #000;
 }
 
 #main h2 > i{
@@ -267,6 +273,7 @@ clear:both;content:'';display:block;width: 0;height: 0;visibility:hidden;
   flex: 1 0 0;
   padding-left: var(--decorator-horizontal-margin);
   padding-top: calc(var(--row-blocks-padding-top) - 0.5pt) !important; /* not sure why but this is needed for better alignment */
+	padding-bottom: 0.1in;
 }
 
 .details header{
@@ -373,6 +380,13 @@ clear:both;content:'';display:block;width: 0;height: 0;visibility:hidden;
 #contact li > i{
   width: 9pt; /* for text alignment */
   text-align: right;
+}
+
+#contact a{
+	color: #444;
+}
+#contact a:hover{
+	text-decoration: underline;
 }
 
 #skills{
