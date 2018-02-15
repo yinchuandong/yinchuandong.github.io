@@ -39,7 +39,7 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2013</span><span>2016</span>
+            <span>2016</span><span>2013</span>
           </div>
           <div class="decorator">
           </div>
