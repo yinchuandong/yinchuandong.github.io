@@ -25,7 +25,7 @@
             <header>
               <h3>Data Scientist (SummerTech intern)</h3>
               <span class="place">The University of Melbourne</span>
-              <span class="location">Australia</span>
+              <span class="location">Melbourne, Australia</span>
             </header>
             <div>
               <ul>
@@ -119,7 +119,7 @@
           <div class="details">
             <header>
               <h3>
-                A4C: Context-Uncertainty-Aware Chatbot Action Selection via Parameterized Auxiliary Reinforcement Learning
+                PA4C: Context-Uncertainty-Aware Chatbot Action Selection via Parameterized Auxiliary Reinforcement Learning
                 <strong>(Accepted by PAKDD 2018)</strong>
               </h3>
               <span class="place">The University of Melbourne</span>
@@ -214,7 +214,7 @@
             </header>
             <div>
               <ul>
-                <li>Recommend books for students based on their reading history using collaborative filtering</li>
+                <li>Recommend books for students based on their reading logs using collaborative filtering</li>
               </ul>
             </div>
           </div>
@@ -233,7 +233,7 @@
             </header>
             <div>
               <ul>
-                <li>Dynamically recommend routes, hotels, and restaurants for users based on their travel destinatin, cost, and days</li>
+                <li>Dynamically recommend routes, hotels, and restaurants for users based on their travel destinations, cost, and days</li>
                 <li>Auto-plan trajectory using ant colony algorithm and genetic algorithm</li>
               </ul>
             </div>
@@ -276,7 +276,7 @@
           </div>
           <div class="details">
             <header>
-              <h3>Mphil (Computer Science)</h3>
+              <h3>Mphil (Computer Science) Expected Graduation: 06/2018</h3>
               <span class="place">The University of Melbourne</span>
               <span class="location">Australia</span>
             </header>
@@ -345,6 +345,7 @@
         </ul>
         <ul>
           <li>Python</li>
+          <li>Tensorflow/Keras</li>
           <li>Java/Android</li>
           <li>PHP</li>
           <li>JS (Node/Vue/Jquery)</li>
