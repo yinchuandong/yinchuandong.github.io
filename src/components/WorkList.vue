@@ -143,6 +143,28 @@
         </h2>
         <section class="blocks">
           <div class="date">
+            <span>2017</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Playing Flappy Bird and Car Racer with Deep Reinforcement Learnig</h3>
+              <span class="place">The University of Melbourne</span>
+            </header>
+            <div>
+              <ul>
+                <li>
+                  Train several deep reinforcement learning models to play Flappy Bird and Car Racer,
+                  such as DQN, DRQN, DDPG, Actor-Critic, A3C and UNREAL.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="blocks">
+          <div class="date">
             <span>2016</span>
           </div>
           <div class="decorator">
