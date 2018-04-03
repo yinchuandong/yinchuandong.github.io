@@ -147,7 +147,7 @@
               <h3>
                 Xia Li, <strong>Chuandong Yin</strong>, Yun Yuan.
                 Comparison and Analysis of Personalized Recommending Algorithm of Travelling Route.
-                Computer Technology and Development, 2016
+                Computer Technology and Development, 2016.
                 <a href="http://caod.oriprobe.com/articles/49390892/Comparison_and_Analysis_of_Personalized_Recommending_Algorithm_of_Trav.htm" target="_blank">
                   [PDF]
                 </a>
