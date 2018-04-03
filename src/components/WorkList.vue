@@ -83,9 +83,9 @@
       </section>
 
 
-      <section class="main-block">
+      <section id="research" class="main-block">
         <h2>
-          <i class="fa fa-suitcase"></i> Research
+          <i class="fa fa-suitcase"></i> Publications
         </h2>
 
         <section class="blocks">
@@ -119,14 +119,44 @@
           <div class="details">
             <header>
               <h3>
-                PA4C: Context-Uncertainty-Aware Chatbot Action Selection via Parameterized Auxiliary Reinforcement Learning
-                <strong>(Accepted by PAKDD 2018)</strong>
+                <strong>Chuandong Yin</strong>, Rui Zhang, Jianzhong Qi, Yu Sun, and Tenglun Tan.
+                Context-Uncertainty-Aware Chatbot Action Selection via Parameterized Auxiliary Reinforcement Learning.
+                In PAKDD, 2018.
+                <a href="./static/pa4c.pdf" target="_blank">
+                  [PDF]
+                </a>
               </h3>
               <span class="place">The University of Melbourne</span>
             </header>
             <div>
               <ul>
                 <li>Tag: Chatbot, Reinforcement Learning, Actor-Critic</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="blocks">
+          <div class="date">
+            <span>2016</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>
+                Xia Li, <strong>Chuandong Yin</strong>, Yun Yuan.
+                Comparison and Analysis of Personalized Recommending Algorithm of Travelling Route.
+                Computer Technology and Development, 2016
+                <a href="http://caod.oriprobe.com/articles/49390892/Comparison_and_Analysis_of_Personalized_Recommending_Algorithm_of_Trav.htm" target="_blank">
+                  [PDF]
+                </a>
+              </h3>
+              <span class="place">Guangdong University of Foreign Studies</span>
+            </header>
+            <div>
+              <ul>
+                <li>Tag: Traveling Route Planning, Traveling Mining, Genetic Algorithm, Greedy Algorithm, Maximum and Minimum Ant Colony Algorithm</li>
               </ul>
             </div>
           </div>
