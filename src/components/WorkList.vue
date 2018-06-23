@@ -371,7 +371,7 @@
         </h1>
         <ul>
           <li><i class="fa fa-globe"></i>
-            johncdyin AT gmail.com
+            johnny.cd.yin AT gmail.com
           </li>
           <li><i class="fa fa-linkedin"></i>
             <a href="http://www.linkedin.com/in/yinchuandong" target="_blank">
