@@ -34,7 +34,7 @@ canvas{
   --sidebar-width: calc(var(--page-width) - var(--main-width));
   --decorator-horizontal-margin: 0.2in;
 
-  --sidebar-horizontal-padding: 0.2in;
+  --sidebar-horizontal-padding: 0.1in;
 
   /* XXX: using px for very good precision control */
   --decorator-outer-offset-top: 10px;
@@ -47,6 +47,8 @@ canvas{
   --date-block-width: 0.6in;
 
   --main-blocks-title-icon-offset-left: -19pt;
+
+  --main-blocks-padding-bottom: 12px;
 }
 
 body{
@@ -71,7 +73,8 @@ li{
   width: var(--main-width);
   padding: 0.25in 0.25in 0 0.25in;
   font-size: 14px;
-	z-index: 200;  padding-bottom: 100px;
+	z-index: 200;
+  padding-bottom: var(--main-blocks-padding-bottom);
 	position: relative;
   /* background-color: rgba(255, 255, 255, 0.7); */
 }
@@ -137,7 +140,7 @@ clear:both;content:'';display:block;width: 0;height: 0;visibility:hidden;
 
 .main-block{
   margin-top: 0.1in;
-	margin-bottom: 0.38in;
+	margin-bottom: 0.1in;
 }
 
 #main h2{
@@ -296,6 +299,10 @@ clear:both;content:'';display:block;width: 0;height: 0;visibility:hidden;
   /* use padding to work around the fact that margin doesn't affect floated
      neighboring elements */
   padding: 0.05in 0 0.07in 0;
+}
+
+.projects{
+  margin-top: 0.5in;
 }
 
 .details .place{

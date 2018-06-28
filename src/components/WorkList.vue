@@ -5,7 +5,7 @@
 
 
       <header id="title">
-        <h1>Chuandong Yin</h1>
+        <h1>Chuandong Yin (Johnny)</h1>
         <span class="subtitle">Data Scientist</span>
       </header>
 
@@ -13,8 +13,29 @@
 
       <section class="main-block">
         <h2>
-          <i class="fa fa-suitcase"></i> Experiences
+          <i class="fa fa-suitcase"></i> Work Experiences
         </h2>
+
+        <section class="blocks">
+          <div class="date">
+            <span>2018</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Research Assistant</h3>
+              <span class="place">The University of Melbourne</span>
+              <span class="location">Melbourne, Australia</span>
+            </header>
+            <div>
+              <ul>
+                <li>Build graph embedding on GEO data</li>
+              </ul>
+              </div>
+          </div>
+        </section>
+
         <section class="blocks">
           <div class="date">
             <span>2016</span>
@@ -167,10 +188,30 @@
 
 
 
-      <section class="main-block">
+      <section class="main-block projects">
         <h2>
           <i class="fa fa-folder-open"></i>Projects
         </h2>
+        <section class="blocks">
+          <div class="date">
+            <span>2018</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>EY Data Science Challenge (<strong>3rd prize</strong>)</h3>
+              <span class="place">Ernst & Young, Melbourne</span>
+            </header>
+            <div>
+              <ul>
+                <li>
+                  Predict the quality of life measures globally and analyze the key influencers.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
         <section class="blocks">
           <div class="date">
             <span>2017</span>
@@ -328,7 +369,7 @@
           </div>
           <div class="details">
             <header>
-              <h3>Mphil (Computer Science) Expected Graduation: 06/2018</h3>
+              <h3>M.Phil (Computer Science) Graduated in: 06/2018</h3>
               <span class="place">The University of Melbourne</span>
               <span class="location">Australia</span>
             </header>
