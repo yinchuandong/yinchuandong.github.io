@@ -118,8 +118,8 @@
           <div class="details">
             <header>
               <h3>
-                PGGAN: Generative Adversarial Nets Guided Policy Gradient for Task-oriented Chatbot Training
-                (Submitted to IJCAI 2018)
+                PGGAN: Generative Adversarial Nets Guided Policy Gradient for Task-oriented Dialogue Policy Learning
+                (Submitted to ICDM 2018)
               </h3>
               <span class="place">The University of Melbourne</span>
             </header>
@@ -220,7 +220,7 @@
           </div>
           <div class="details">
             <header>
-              <h3>Playing Flappy Bird and Car Racer with Deep Reinforcement Learnig</h3>
+              <h3>Playing Flappy Bird and Car Racer with Deep Reinforcement Learning</h3>
               <span class="place">The University of Melbourne</span>
             </header>
             <div>
