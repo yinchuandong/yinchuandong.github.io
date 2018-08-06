@@ -6,12 +6,12 @@
 
       <header id="title">
         <h1>Chuandong Yin (Johnny)</h1>
-        <span class="subtitle">Data Scientist</span>
+        <!-- <span class="subtitle">Data Scientist</span> -->
       </header>
 
 
 
-      <section class="main-block">
+      <section id="experience" class="main-block">
         <h2>
           <i class="fa fa-suitcase"></i> Work Experiences
         </h2>
@@ -31,6 +31,7 @@
             <div>
               <ul>
                 <li>Build graph embedding on GEO data</li>
+                <li>Predict the distance between two points on a map</li>
               </ul>
               </div>
           </div>
@@ -52,7 +53,7 @@
               <ul>
                 <li>Explain how deep learning classifiers work based on images</li>
                 <li>Visualize the parameters of each layer in a CNN model</li>
-                <li>Semantically segment images into small parts and compute the importance of each part</li>
+                <li>Semantically segment images and compute their importance </li>
               </ul>
               </div>
           </div>
@@ -66,7 +67,7 @@
           </div>
           <div class="details">
             <header>
-              <h3>CTO (part-time)</h3>
+              <h3>Full Stack Engineer (part-time)</h3>
               <span class="place">Shenzhen Sichuang Technology Co., Ltd</span>
               <span class="location">Shenzhen, China</span>
             </header>
@@ -74,7 +75,6 @@
               <ul>
                 <li>Design an English grammar correction APP via NLP techniques</li>
                 <li>Build an educational Android tablet system</li>
-                <li>Build educational Android Apps, including Android App and server-side API design</li>
               </ul>
             </div>
           </div>
@@ -104,7 +104,100 @@
       </section>
 
 
-      <section id="research" class="main-block">
+
+      <section id="education" class="main-block concise">
+        <h2>
+          <i class="fa fa-graduation-cap"></i> Education
+        </h2>
+        <section class="blocks">
+          <div class="date">
+            <span>2018</span><span>2016</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>M.Phil (Computer Science) Graduated in: 06/2018</h3>
+              <span class="place">The University of Melbourne</span>
+              <span class="location">Australia</span>
+            </header>
+            <div>
+              Research Topic: Task-oriented Chatbot via Deep Reinforcement Learning
+            </div>
+          </div>
+        </section>
+
+
+        <section class="blocks">
+          <div class="date">
+            <span>2015</span><span>2011</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Bachelor (Software Engineering)</h3>
+              <span class="place">Guangdong University of Foreign Studies</span>
+              <span class="location">China</span>
+            </header>
+            <div>
+              <!--  -->
+            </div>
+          </div>
+        </section>
+      </section>
+
+
+      <section id="award" class="main-block">
+        <h2>
+          <i class="fa fa-suitcase"></i> Award
+        </h2>
+
+        <section class="blocks">
+          <div class="date">
+            <span>2018</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Melbourne Business Analytics Datathon 2018 (<strong>2nd Student Team</strong>)</h3>
+              <span class="place">Business School, The University of Melbourne</span>
+            </header>
+            <div>
+              <ul>
+                <li>Analyze the data from different sources; Give insights and solutions</li>
+                <li>40+ teams participated into the competition, including corporates like Suncorp, Liberty, and EY Data Analytics etc</li>
+              </ul>
+              </div>
+          </div>
+        </section>
+
+        <section class="blocks">
+          <div class="date">
+            <span>2018</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>EY Datathon (<strong>3rd Prize</strong>)</h3>
+              <span class="place">Ernst & Young, Melbourne</span>
+            </header>
+            <div>
+              <ul>
+                <li>Predict the life quality of different countries in the world; Give insights and analyze the key influencers</li>
+                <li>374 participants from across the country. There are five finalists at the finals.</li>
+              </ul>
+              </div>
+          </div>
+        </section>
+
+
+      </section>
+
+
+      <section id="publication" class="main-block">
         <h2>
           <i class="fa fa-suitcase"></i> Publications
         </h2>
@@ -187,31 +280,11 @@
 
 
 
-
-      <section class="main-block projects">
+      <section id="project" class="main-block">
         <h2>
           <i class="fa fa-folder-open"></i>Projects
         </h2>
-        <section class="blocks">
-          <div class="date">
-            <span>2018</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>EY Data Science Challenge (<strong>3rd prize</strong>)</h3>
-              <span class="place">Ernst & Young, Melbourne</span>
-            </header>
-            <div>
-              <ul>
-                <li>
-                  Predict the quality of life measures globally and analyze the key influencers.
-                </li>
-              </ul>
-            </div>
-          </div>
-        </section>
+
         <section class="blocks">
           <div class="date">
             <span>2017</span>
@@ -274,7 +347,7 @@
           </div>
         </section>
 
-        <section class="blocks">
+        <!-- <section class="blocks">
           <div class="date">
             <span>2014</span>
           </div>
@@ -292,7 +365,7 @@
               </ul>
             </div>
           </div>
-        </section>
+        </section> -->
 
         <section class="blocks">
           <div class="date">
@@ -357,48 +430,10 @@
 
 
 
-      <section class="main-block concise">
-        <h2>
-          <i class="fa fa-graduation-cap"></i> Education
-        </h2>
-        <section class="blocks">
-          <div class="date">
-            <span>2018</span><span>2016</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>M.Phil (Computer Science) Graduated in: 06/2018</h3>
-              <span class="place">The University of Melbourne</span>
-              <span class="location">Australia</span>
-            </header>
-            <div>
-              Research Topic: Task-oriented Chatbot via Reinforcement Learning
-            </div>
-          </div>
-        </section>
 
 
-        <section class="blocks">
-          <div class="date">
-            <span>2015</span><span>2011</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Bachelor (Software Engineering)</h3>
-              <span class="place">Guangdong University of Foreign Studies</span>
-              <span class="location">China</span>
-            </header>
-            <div>
-              <!--  -->
-            </div>
-          </div>
-        </section>
 
-      </section>
+
     </section>
 
 
@@ -412,7 +447,10 @@
         </h1>
         <ul>
           <li><i class="fa fa-globe"></i>
-            johnny.cd.yin AT gmail.com
+            johnny.cd.yin@gmail.com
+          </li>
+          <li><i class="fa fa-globe"></i>
+            phone: 0420845979
           </li>
           <li><i class="fa fa-linkedin"></i>
             <a href="http://www.linkedin.com/in/yinchuandong" target="_blank">

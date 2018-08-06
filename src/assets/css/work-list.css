@@ -301,8 +301,12 @@ clear:both;content:'';display:block;width: 0;height: 0;visibility:hidden;
   padding: 0.05in 0 0.07in 0;
 }
 
-.projects{
-  margin-top: 0.5in;
+#award{
+  /* margin-top: 0.5in; */
+}
+
+#publication{
+  /* margin-top: 0.5in; */
 }
 
 .details .place{
