@@ -473,14 +473,18 @@
           <li>Reinforcement Learning</li>
           <li>Data Mining</li>
           <li>NLP</li>
+          <li>Chatbot</li>
+          <li>Tensorflow/Keras/Caffe</li>
+          <li>CNN/RNN/DNN</li>
+          <li>SkLearn/Pandas/Numpy</li>
         </ul>
         <ul>
           <li>Python</li>
-          <li>Tensorflow/Keras</li>
           <li>Java/Android</li>
           <li>PHP</li>
           <li>JS (Node/Vue/Jquery)</li>
           <li>C/C++</li>
+          <li>MySQL/MongoDB/Redis</li>
           <li>Linux/Git</li>
         </ul>
       </div>
