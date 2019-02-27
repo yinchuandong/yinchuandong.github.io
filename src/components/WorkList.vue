@@ -4,10 +4,9 @@
 
 
 
-      <header id="title">
+      <!-- <header id="title">
         <h1>Chuandong Yin (Johnny)</h1>
-        <!-- <span class="subtitle">Data Scientist</span> -->
-      </header>
+      </header> -->
 
 
 
@@ -18,13 +17,36 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2018</span>
+            <span>Now</span>
+            <span>09/2018</span>
           </div>
           <div class="decorator">
           </div>
           <div class="details">
             <header>
-              <h3>Research Assistant</h3>
+              <h3>Data Scientist</h3>
+              <span class="place">PredictiveHire</span>
+              <span class="location">Melbourne, Australia</span>
+            </header>
+            <div>
+              <ul>
+                <li>Analyze and visualize post-hire employee performance data (Plotly, Tableau)</li>
+                <li>Build machine learning pipelines to train and deploy models (NLP, Docker)</li>
+              </ul>
+              </div>
+          </div>
+        </section>
+
+        <section class="blocks">
+          <div class="date">
+            <span>Now</span>
+            <span>07/2018</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Research Assistant (Casual)</h3>
               <span class="place">The University of Melbourne</span>
               <span class="location">Melbourne, Australia</span>
             </header>
@@ -39,7 +61,8 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2016</span>
+            <span>01/2017</span>
+            <span>11/2016</span>
           </div>
           <div class="decorator">
           </div>
@@ -61,7 +84,7 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2016</span><span>2013</span>
+            <span>07/2016</span><span>07/2013</span>
           </div>
           <div class="decorator">
           </div>
@@ -73,7 +96,7 @@
             </header>
             <div>
               <ul>
-                <li>Design an English grammar correction APP via NLP techniques</li>
+                <li>Design an English grammar correction APP using NLP techniques</li>
                 <li>Build an educational Android tablet system</li>
               </ul>
             </div>
@@ -82,7 +105,8 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2013</span>
+            <span>08/2013</span>
+            <span>07/2013</span>
           </div>
           <div class="decorator">
           </div>
@@ -111,13 +135,13 @@
         </h2>
         <section class="blocks">
           <div class="date">
-            <span>2018</span><span>2016</span>
+            <span>11/2018</span><span>08/2016</span>
           </div>
           <div class="decorator">
           </div>
           <div class="details">
             <header>
-              <h3>M.Phil (Computer Science) Graduated in: 06/2018</h3>
+              <h3>M.Phil (Computer Science)</h3>
               <span class="place">The University of Melbourne</span>
               <span class="location">Australia</span>
             </header>
@@ -130,7 +154,7 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2015</span><span>2011</span>
+            <span>09/2015</span><span>09/2011</span>
           </div>
           <div class="decorator">
           </div>
@@ -141,7 +165,7 @@
               <span class="location">China</span>
             </header>
             <div>
-              <!--  -->
+              &nbsp;
             </div>
           </div>
         </section>
@@ -155,7 +179,7 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2018</span>
+            <span>07/2018</span>
           </div>
           <div class="decorator">
           </div>
@@ -175,7 +199,7 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2018</span>
+            <span>05/2018</span>
           </div>
           <div class="decorator">
           </div>
@@ -204,15 +228,14 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2018</span>
+            <span>05/2018</span>
           </div>
           <div class="decorator">
           </div>
           <div class="details">
             <header>
               <h3>
-                PGGAN: Generative Adversarial Nets Guided Policy Gradient for Task-oriented Dialogue Policy Learning
-                (Submitted to ICDM 2018)
+                RLGAN: An Adversarial Approach to Task-Oriented Dialog Policy Learning
               </h3>
               <span class="place">The University of Melbourne</span>
             </header>
@@ -226,7 +249,7 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2017</span>
+            <span>02/2018</span>
           </div>
           <div class="decorator">
           </div>
@@ -252,7 +275,7 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2016</span>
+            <span>10/2016</span>
           </div>
           <div class="decorator">
           </div>
@@ -287,7 +310,7 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2017</span>
+            <span>02/2017</span>
           </div>
           <div class="decorator">
           </div>
@@ -309,7 +332,7 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2016</span>
+            <span>05/2016</span>
           </div>
           <div class="decorator">
           </div>
@@ -329,7 +352,7 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2015</span>
+            <span>07/2015</span>
           </div>
           <div class="decorator">
           </div>
@@ -347,48 +370,9 @@
           </div>
         </section>
 
-        <!-- <section class="blocks">
-          <div class="date">
-            <span>2014</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Distorted and Sticky CAPTCHA Recognition</h3>
-              <span class="place">Guangdong University of Foreign Studies</span>
-            </header>
-            <div>
-              <ul>
-                <li>Segment sticky characters using Color Filling Segmentation and Big Inertial Drop Fall algorithm</li>
-                <li>Recognize each character using SVM classifier</li>
-              </ul>
-            </div>
-          </div>
-        </section> -->
-
         <section class="blocks">
           <div class="date">
-            <span>2014</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Book Recommendation</h3>
-              <span class="place">Guangdong University of Foreign Studies</span>
-            </header>
-            <div>
-              <ul>
-                <li>Recommend books for students based on their reading logs using collaborative filtering</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        <section class="blocks">
-          <div class="date">
-            <span>2014</span>
+            <span>05/2015</span>
           </div>
           <div class="decorator">
           </div>
@@ -408,7 +392,28 @@
 
         <section class="blocks">
           <div class="date">
-            <span>2013</span>
+            <span>04/2014</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Book Recommendation</h3>
+              <span class="place">Guangdong University of Foreign Studies</span>
+            </header>
+            <div>
+              <ul>
+                <li>Recommend books for students based on their reading logs using collaborative filtering</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+
+
+        <section class="blocks">
+          <div class="date">
+            <span>11/2013</span>
           </div>
           <div class="decorator">
           </div>
@@ -425,6 +430,27 @@
             </div>
           </div>
         </section>
+
+
+        <!-- <section class="blocks">
+          <div class="date">
+            <span>11/2013</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Distorted and Sticky CAPTCHA Recognition</h3>
+              <span class="place">Guangdong University of Foreign Studies</span>
+            </header>
+            <div>
+              <ul>
+                <li>Segment sticky characters using Color Filling Segmentation and Big Inertial Drop Fall algorithm</li>
+                <li>Recognize each character using SVM classifier</li>
+              </ul>
+            </div>
+          </div>
+        </section> -->
 
       </section>
 
@@ -446,6 +472,9 @@
           Contact Info
         </h1>
         <ul>
+          <li><i class="fa fa-globe"></i>
+            Chuandong (Johnny) Yin
+          </li>
           <li><i class="fa fa-globe"></i>
             johnny.cd.yin@gmail.com
           </li>
