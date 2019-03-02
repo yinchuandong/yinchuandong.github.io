@@ -4,9 +4,9 @@
 
 
 
-      <!-- <header id="title">
+      <header id="title">
         <h1>Chuandong Yin (Johnny)</h1>
-      </header> -->
+      </header>
 
 
 
@@ -30,8 +30,9 @@
             </header>
             <div>
               <ul>
+                <li>Use machine learning to find out the best candidates in the hiring industry</li>
                 <li>Analyze and visualize post-hire employee performance data (Plotly, Tableau)</li>
-                <li>Build machine learning pipelines to train and deploy models (NLP, Docker)</li>
+                <li>Automate machine learning pipelines for training and deployment (NLP, Docker)</li>
               </ul>
               </div>
           </div>
@@ -118,57 +119,13 @@
             </header>
             <div>
               <ul>
-                <li>Front-end design, including JS, CSS, HTML</li>
-                <li>Back-end design, including PHP, MySQL</li>
+                <li>Front-end developing: JS, CSS, HTML</li>
+                <li>Back-end developing: PHP, MySQL</li>
               </ul>
               </div>
           </div>
         </section>
 
-      </section>
-
-
-
-      <section id="education" class="main-block concise">
-        <h2>
-          <i class="fa fa-graduation-cap"></i> Education
-        </h2>
-        <section class="blocks">
-          <div class="date">
-            <span>11/2018</span><span>08/2016</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>M.Phil (Computer Science)</h3>
-              <span class="place">The University of Melbourne</span>
-              <span class="location">Australia</span>
-            </header>
-            <div>
-              Research Topic: Task-oriented Chatbot via Deep Reinforcement Learning
-            </div>
-          </div>
-        </section>
-
-
-        <section class="blocks">
-          <div class="date">
-            <span>09/2015</span><span>09/2011</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Bachelor (Software Engineering)</h3>
-              <span class="place">Guangdong University of Foreign Studies</span>
-              <span class="location">China</span>
-            </header>
-            <div>
-              &nbsp;
-            </div>
-          </div>
-        </section>
       </section>
 
 
@@ -221,92 +178,37 @@
       </section>
 
 
-      <section id="publication" class="main-block">
-        <h2>
-          <i class="fa fa-suitcase"></i> Publications
-        </h2>
-
-        <section class="blocks">
-          <div class="date">
-            <span>05/2018</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>
-                RLGAN: An Adversarial Approach to Task-Oriented Dialog Policy Learning
-              </h3>
-              <span class="place">The University of Melbourne</span>
-            </header>
-            <div>
-              <ul>
-                <li>Tag: Chatbot, Reinforcement Learning, GAN, Monte-Carlo</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        <section class="blocks">
-          <div class="date">
-            <span>02/2018</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>
-                <strong>Chuandong Yin</strong>, Rui Zhang, Jianzhong Qi, Yu Sun, and Tenglun Tan.
-                Context-Uncertainty-Aware Chatbot Action Selection via Parameterized Auxiliary Reinforcement Learning.
-                In PAKDD, 2018.
-                <a href="./static/pa4c.pdf" target="_blank">
-                  [PDF]
-                </a>
-              </h3>
-              <span class="place">The University of Melbourne</span>
-            </header>
-            <div>
-              <ul>
-                <li>Tag: Chatbot, Reinforcement Learning, Actor-Critic</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        <section class="blocks">
-          <div class="date">
-            <span>10/2016</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>
-                Xia Li, <strong>Chuandong Yin</strong>, Yun Yuan.
-                Comparison and Analysis of Personalized Recommending Algorithm of Travelling Route.
-                Computer Technology and Development, 2016.
-                <a href="http://caod.oriprobe.com/articles/49390892/Comparison_and_Analysis_of_Personalized_Recommending_Algorithm_of_Trav.htm" target="_blank">
-                  [PDF]
-                </a>
-              </h3>
-              <span class="place">Guangdong University of Foreign Studies</span>
-            </header>
-            <div>
-              <ul>
-                <li>Tag: Traveling Route Planning, Traveling Mining, Genetic Algorithm, Greedy Algorithm, Maximum and Minimum Ant Colony Algorithm</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-      </section>
 
 
 
-      <section id="project" class="main-block">
+      <section id="project" class="main-block" style="margin-top: 100px;">
         <h2>
           <i class="fa fa-folder-open"></i>Projects
         </h2>
+
+        <section class="blocks">
+          <div class="date">
+            <span>01/2018</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Task-oriented Chatbot System for restaurant reservation</h3>
+              <span class="place">The University of Melbourne</span>
+            </header>
+            <div>
+              <ul>
+                <li>
+                  Build a chatbots using reinforcement learning (RL) and generative adversarial networks (GAN).
+                </li>
+                <li>
+                  Explore state-of-the-art techniques, such as DQN, DRQN, Policy Gradient, A3C, learning to rank, GAN, RNN, Word Embedding.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
 
         <section class="blocks">
           <div class="date">
@@ -455,7 +357,154 @@
       </section>
 
 
+      <section id="education" class="main-block concise">
+        <h2>
+          <i class="fa fa-graduation-cap"></i> Education
+        </h2>
+        <section class="blocks">
+          <div class="date">
+            <span>11/2018</span><span>08/2016</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>M.Phil (Computer Science)</h3>
+              <span class="place">The University of Melbourne</span>
+              <span class="location">Australia</span>
+            </header>
+            <div>
+              Research Topic: Task-oriented Chatbot via Deep Reinforcement Learning
+            </div>
+          </div>
+        </section>
 
+
+        <section class="blocks">
+          <div class="date">
+            <span>09/2015</span><span>09/2011</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Bachelor (Software Engineering)</h3>
+              <span class="place">Guangdong University of Foreign Studies</span>
+              <span class="location">China</span>
+            </header>
+            <div>
+              &nbsp;
+            </div>
+          </div>
+        </section>
+      </section>
+
+
+
+      <!-- <section id="publication" class="main-block">
+        <h2>
+          <i class="fa fa-suitcase"></i> Publications
+        </h2>
+
+        <section class="blocks">
+          <div class="date">
+            <span>11/2018</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>
+                Yiqing Zhang, Jianzhong Qi, Rui Zhang, <strong>Chuandong Yin</strong>.
+                PubSE: A Hierarchical Model for Publication Extraction from Academic Homepages. In EMNLP, 2018.
+                <a href="http://aclweb.org/anthology/D18-1123" target="_blank">
+                  [PDF]
+                </a>
+              </h3>
+              <span class="place">The University of Melbourne</span>
+            </header>
+            <div>
+              <ul>
+                <li>Tag: NER, Bi-LSTM, CRF, CNN</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="blocks">
+          <div class="date">
+            <span>05/2018</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>
+                RLGAN: An Adversarial Approach to Task-Oriented Dialog Policy Learning
+              </h3>
+              <span class="place">The University of Melbourne</span>
+            </header>
+            <div>
+              <ul>
+                <li>Tag: Chatbot, Reinforcement Learning, GAN, Monte-Carlo</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="blocks">
+          <div class="date">
+            <span>02/2018</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>
+                <strong>Chuandong Yin</strong>, Rui Zhang, Jianzhong Qi, Yu Sun, and Tenglun Tan.
+                Context-Uncertainty-Aware Chatbot Action Selection via Parameterized Auxiliary Reinforcement Learning.
+                In PAKDD, 2018.
+                <a href="./static/pa4c.pdf" target="_blank">
+                  [PDF]
+                </a>
+              </h3>
+              <span class="place">The University of Melbourne</span>
+            </header>
+            <div>
+              <ul>
+                <li>Tag: Chatbot, Reinforcement Learning, Actor-Critic</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="blocks">
+          <div class="date">
+            <span>10/2016</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>
+                Xia Li, <strong>Chuandong Yin</strong>, Yun Yuan.
+                Comparison and Analysis of Personalized Recommending Algorithm of Travelling Route.
+                Computer Technology and Development, 2016.
+                <a href="http://caod.oriprobe.com/articles/49390892/Comparison_and_Analysis_of_Personalized_Recommending_Algorithm_of_Trav.htm" target="_blank">
+                  [PDF]
+                </a>
+              </h3>
+              <span class="place">Guangdong University of Foreign Studies</span>
+            </header>
+            <div>
+              <ul>
+                <li>Tag: Traveling Route Planning, Traveling Mining, Genetic Algorithm, Greedy Algorithm, Maximum and Minimum Ant Colony Algorithm</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+      </section> -->
 
 
 
@@ -465,16 +514,13 @@
 
     <aside id="sidebar">
       <div class="side-block" id="photo">
-        <img id="photo" src="/static/img/photo.jpg"/>
+        <img id="photo" src="/static/img/photo2.jpg"/>
       </div>
       <div class="side-block" id="contact">
         <h1>
           Contact Info
         </h1>
         <ul>
-          <li><i class="fa fa-globe"></i>
-            Chuandong (Johnny) Yin
-          </li>
           <li><i class="fa fa-globe"></i>
             johnny.cd.yin@gmail.com
           </li>
@@ -493,32 +539,36 @@
           </li>
         </ul>
       </div>
+
+      <div class="side-block" id="research">
+        <h1>
+          Research
+        </h1>
+        <ul>
+          <li>NLP</li>
+          <li>Chatbot</li>
+          <li>Deep Learning</li>
+          <li>Reinforcement Learning</li>
+          <li>Data Mining</li>
+        </ul>
+      </div>
+
       <div class="side-block" id="skills">
         <h1>
           Skills
         </h1>
         <ul>
-          <li>Deep Learning</li>
-          <li>Reinforcement Learning</li>
-          <li>Data Mining</li>
-          <li>NLP</li>
-          <li>Chatbot</li>
           <li>Tensorflow/Keras/Caffe</li>
           <li>CNN/RNN/DNN</li>
-          <li>SkLearn/Pandas/Numpy</li>
-        </ul>
-        <ul>
-          <li>Python</li>
-          <li>Java/Android</li>
-          <li>PHP</li>
-          <li>JS (Node/Vue/Jquery)</li>
+          <li>SkLearn/SciPy/Pandas</li>
+          <li>Python/Plotly/Tableau</li>
+          <li>Vue.js/React.js</li>
+          <li>Java/PHP/NodeJS</li>
           <li>C/C++</li>
           <li>MySQL/MongoDB/Redis</li>
           <li>Linux/Git</li>
         </ul>
-      </div>
-      <div class="side-block" id="disclaimer">
-        <!--  -->
+
       </div>
     </aside>
 
