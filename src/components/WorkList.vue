@@ -24,7 +24,7 @@
           </div>
           <div class="details">
             <header>
-              <h3>Data Scientist</h3>
+              <h3>Data Scientist in Machine Learning and NLP</h3>
               <span class="place">PredictiveHire</span>
               <span class="location">Melbourne, Australia</span>
             </header>
@@ -47,14 +47,14 @@
           </div>
           <div class="details">
             <header>
-              <h3>Research Assistant (Casual)</h3>
+              <h3>Research Assistant (casual)</h3>
               <span class="place">The University of Melbourne</span>
               <span class="location">Melbourne, Australia</span>
             </header>
             <div>
               <ul>
-                <li>Build graph embedding on GEO data</li>
-                <li>Predict the distance between two points on a map</li>
+                <li>Use deep learning to predict the distance between two points in a map</li>
+                <li>Build GEO graph embedding for each points to learn the latent correlation</li>
               </ul>
               </div>
           </div>
@@ -69,14 +69,14 @@
           </div>
           <div class="details">
             <header>
-              <h3>Data Scientist (SummerTech intern)</h3>
+              <h3>Data Scientist (intern)</h3>
               <span class="place">The University of Melbourne</span>
               <span class="location">Melbourne, Australia</span>
             </header>
             <div>
               <ul>
-                <li>Explain how deep learning classifiers work based on images</li>
-                <li>Visualize the parameters of each layer in a CNN model</li>
+                <li>Explain how deep learning classifiers work in image classification problems</li>
+                <li>Visualize layer-wise CNN model parameters to track weight distributions</li>
                 <li>Semantically segment images and compute their importance </li>
               </ul>
               </div>
@@ -91,13 +91,13 @@
           </div>
           <div class="details">
             <header>
-              <h3>Full Stack Engineer (part-time)</h3>
+              <h3>Full-Stack Machine Learning Engineer (part-time)</h3>
               <span class="place">Shenzhen Sichuang Technology Co., Ltd</span>
               <span class="location">Shenzhen, China</span>
             </header>
             <div>
               <ul>
-                <li>Design an English grammar correction APP using NLP techniques</li>
+                <li>Develop an English grammar correction APP using NLP techniques</li>
                 <li>Build an educational Android tablet system</li>
               </ul>
             </div>
@@ -181,7 +181,7 @@
 
 
 
-      <section id="project" class="main-block" style="margin-top: 100px;">
+      <section id="project" class="main-block">
         <h2>
           <i class="fa fa-folder-open"></i>Projects
         </h2>
@@ -200,7 +200,7 @@
             <div>
               <ul>
                 <li>
-                  Build a chatbots using reinforcement learning (RL) and generative adversarial networks (GAN).
+                  Build a chatbot using reinforcement learning (RL) and generative adversarial networks (GAN).
                 </li>
                 <li>
                   Explore state-of-the-art techniques, such as DQN, DRQN, Policy Gradient, A3C, learning to rank, GAN, RNN, Word Embedding.
@@ -223,10 +223,8 @@
             </header>
             <div>
               <ul>
-                <li>
-                  Train several deep reinforcement learning models to play Flappy Bird and Car Racer,
-                  such as DQN, DRQN, DDPG, Actor-Critic, A3C and UNREAL.
-                </li>
+                <li>Use deep reinforcement learning (DRL) to play Flappy Bird and Car Racer.</li>
+                <li>Explore state-of-the-art DRL models as DQN, DRQN, DDPG, A3C and UNREAL.</li>
               </ul>
             </div>
           </div>
@@ -265,8 +263,8 @@
             </header>
             <div>
               <ul>
-                <li>Check English grammar based on noisy channel model</li>
-                <li>Auto-correct mistakes using edit distance and N-grammar </li>
+                <li>Check English grammar using NLP techniques (similar to Grammarly)</li>
+                <li>Correct grammar mistakes based on edit distance and noisy channel model</li>
               </ul>
             </div>
           </div>
@@ -285,8 +283,8 @@
             </header>
             <div>
               <ul>
-                <li>Dynamically recommend routes, hotels, and restaurants for users based on their travel destinations, cost, and days</li>
-                <li>Auto-plan trajectory using ant colony algorithm and genetic algorithm</li>
+                <li>Recommend travel routes, hotels, and restaurants for users based on their travel destinations, cost, and days</li>
+                <li>Find out the best trajectory using ant colony algorithm and genetic algorithm</li>
               </ul>
             </div>
           </div>
@@ -305,7 +303,8 @@
             </header>
             <div>
               <ul>
-                <li>Recommend books for students based on their reading logs using collaborative filtering</li>
+                <li>Recommend books for students based on their reading logs</li>
+                <li>Combine both item-based and user-based collaborative filtering</li>
               </ul>
             </div>
           </div>
@@ -369,7 +368,7 @@
           </div>
           <div class="details">
             <header>
-              <h3>M.Phil (Computer Science)</h3>
+              <h3>M.Phil in Computer Science (First Class Honor)</h3>
               <span class="place">The University of Melbourne</span>
               <span class="location">Australia</span>
             </header>
@@ -388,7 +387,7 @@
           </div>
           <div class="details">
             <header>
-              <h3>Bachelor (Software Engineering)</h3>
+              <h3>Bachelor in Software Engineering (First Class Honor)</h3>
               <span class="place">Guangdong University of Foreign Studies</span>
               <span class="location">China</span>
             </header>
@@ -550,6 +549,7 @@
           <li>Deep Learning</li>
           <li>Reinforcement Learning</li>
           <li>Data Mining</li>
+          <li>Recommendation</li>
         </ul>
       </div>
 
@@ -560,13 +560,15 @@
         <ul>
           <li>Tensorflow/Keras/Caffe</li>
           <li>CNN/RNN/DNN</li>
+          <li>Python/Numpy</li>
           <li>SkLearn/SciPy/Pandas</li>
-          <li>Python/Plotly/Tableau</li>
+          <li>NLTK/OpenCV</li>
+          <li>Tableau/Plotly</li>
           <li>Vue.js/React.js</li>
-          <li>Java/PHP/NodeJS</li>
+          <li>Java/PHP/Node.js</li>
           <li>C/C++</li>
           <li>MySQL/MongoDB/Redis</li>
-          <li>Linux/Git</li>
+          <li>Linux/Docker/Git</li>
         </ul>
 
       </div>
