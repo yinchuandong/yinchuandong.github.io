@@ -52,7 +52,7 @@
             </header>
             <div>
               <ul>
-                <li>Uindustryindustryindustryindustryse machine learning to find out the best candidates in the hiring industry</li>
+                <li>Use machine learning to find out the best candidates in the hiring industry</li>
                 <li>Analyze and visualize post-hire employee performance data (Plotly, Tableau)</li>
                 <li>Automate machine learning pipelines for training and deployment (NLP, Docker)</li>
               </ul>
@@ -558,11 +558,12 @@
           Skills
         </h1>
         <ul>
-          <li>Tensorflow/Keras/Caffe</li>
+          <li>Tensorflow/PyTorch/Caffe</li>
           <li>CNN/RNN/DNN</li>
           <li>Python/Numpy</li>
           <li>SkLearn/SciPy/Pandas</li>
           <li>NLTK/OpenCV</li>
+          <li>Spark</li>
           <li>Tableau/Plotly</li>
           <li>Vue.js/React.js</li>
           <li>Java/PHP/Node.js</li>
