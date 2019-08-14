@@ -18,29 +18,6 @@
         <section class="blocks">
           <div class="date">
             <span>Now</span>
-            <span>09/2018</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Data Scientist in Machine Learning and NLP</h3>
-              <span class="place">PredictiveHire</span>
-              <span class="location">Melbourne, Australia</span>
-            </header>
-            <div>
-              <ul>
-                <li>Use machine learning to find out the best candidates in the hiring industry</li>
-                <li>Analyze and visualize post-hire employee performance data (Plotly, Tableau)</li>
-                <li>Automate machine learning pipelines for training and deployment (NLP, Docker)</li>
-              </ul>
-              </div>
-          </div>
-        </section>
-
-        <section class="blocks">
-          <div class="date">
-            <span>Now</span>
             <span>07/2018</span>
           </div>
           <div class="decorator">
@@ -55,6 +32,29 @@
               <ul>
                 <li>Use deep learning to predict the distance between two points in a map</li>
                 <li>Build GEO graph embedding for each points to learn the latent correlation</li>
+              </ul>
+              </div>
+          </div>
+        </section>
+
+        <section class="blocks">
+          <div class="date">
+            <span>05/2019</span>
+            <span>09/2018</span>
+          </div>
+          <div class="decorator">
+          </div>
+          <div class="details">
+            <header>
+              <h3>Data Scientist in Machine Learning and NLP</h3>
+              <span class="place">PredictiveHire</span>
+              <span class="location">Melbourne, Australia</span>
+            </header>
+            <div>
+              <ul>
+                <li>Uindustryindustryindustryindustryse machine learning to find out the best candidates in the hiring industry</li>
+                <li>Analyze and visualize post-hire employee performance data (Plotly, Tableau)</li>
+                <li>Automate machine learning pipelines for training and deployment (NLP, Docker)</li>
               </ul>
               </div>
           </div>
